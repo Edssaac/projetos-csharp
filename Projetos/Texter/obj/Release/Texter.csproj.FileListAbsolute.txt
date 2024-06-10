@@ -1,0 +1,11 @@
+C:\Users\Pathrok\source\repos\Texter\bin\Release\Texter.exe.config
+C:\Users\Pathrok\source\repos\Texter\bin\Release\Texter.exe
+C:\Users\Pathrok\source\repos\Texter\bin\Release\Texter.pdb
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.Form1.resources
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.TexterDetalhes.resources
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.exe
+C:\Users\Pathrok\source\repos\Texter\obj\Release\Texter.pdb
