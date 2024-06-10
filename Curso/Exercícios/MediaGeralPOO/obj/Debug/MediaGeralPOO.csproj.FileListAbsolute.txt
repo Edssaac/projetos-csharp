@@ -1,0 +1,14 @@
+C:\Users\Pathrok\source\repos\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\Pathrok\source\repos\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\Pathrok\source\repos\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\Pathrok\source\repos\MediaGeralPOO\obj\Debug\MediaGeralPOO.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\Pathrok\source\repos\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\dev\repos\Curso\Exercícios\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicarMatrizes", "MultiplicarMatrizes.csproj", "{1FEB9A7E-D2E2-4C86-B80E-5648D9B1C402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEB9A7E-D2E2-4C86-B80E-5648D9B1C402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEB9A7E-D2E2-4C86-B80E-5648D9B1C402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEB9A7E-D2E2-4C86-B80E-5648D9B1C402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEB9A7E-D2E2-4C86-B80E-5648D9B1C402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20DBCA7-8583-46A6-B408-36BE7AB9D3C7}
+	EndGlobalSection
+EndGlobal
