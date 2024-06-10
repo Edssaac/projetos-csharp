@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\TesteJanela\bin\Debug\TesteJanela.exe.config
+C:\Users\Pathrok\source\repos\TesteJanela\bin\Debug\TesteJanela.exe
+C:\Users\Pathrok\source\repos\TesteJanela\bin\Debug\TesteJanela.pdb
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.Form1.resources
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.exe
+C:\Users\Pathrok\source\repos\TesteJanela\obj\Debug\TesteJanela.pdb
