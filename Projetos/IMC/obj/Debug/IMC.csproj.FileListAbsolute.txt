@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\IMC\bin\Debug\IMC.exe.config
+C:\Users\Pathrok\source\repos\IMC\bin\Debug\IMC.exe
+C:\Users\Pathrok\source\repos\IMC\bin\Debug\IMC.pdb
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.exe
+C:\Users\Pathrok\source\repos\IMC\obj\Debug\IMC.pdb
