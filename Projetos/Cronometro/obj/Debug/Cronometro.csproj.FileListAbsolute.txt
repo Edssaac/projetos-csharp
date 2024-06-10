@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\Pathrok\source\repos\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Pathrok\source\repos\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Pathrok\source\repos\Cronometro\obj\Debug\Cronometro.pdb
