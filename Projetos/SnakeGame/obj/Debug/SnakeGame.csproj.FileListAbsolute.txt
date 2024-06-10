@@ -1,0 +1,10 @@
+C:\Users\Pathrok\source\repos\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\Pathrok\source\repos\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\Pathrok\source\repos\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.GameScreen.resources
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\Pathrok\source\repos\SnakeGame\obj\Debug\SnakeGame.pdb
