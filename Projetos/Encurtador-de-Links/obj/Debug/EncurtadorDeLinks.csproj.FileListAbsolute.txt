@@ -1,0 +1,15 @@
+C:\Users\edssa\source\repos\Bitly\bin\Debug\Bitly.exe.config
+C:\Users\edssa\source\repos\Bitly\bin\Debug\Bitly.exe
+C:\Users\edssa\source\repos\Bitly\bin\Debug\Bitly.pdb
+C:\Users\edssa\source\repos\Bitly\bin\Debug\BitlyAPI.dll
+C:\Users\edssa\source\repos\Bitly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edssa\source\repos\Bitly\bin\Debug\BitlyAPI.pdb
+C:\Users\edssa\source\repos\Bitly\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edssa\source\repos\Bitly\obj\Debug\EncurtadorDeLinks.csprojAssemblyReference.cache
+C:\Users\edssa\source\repos\Bitly\obj\Debug\Bitly.frmEncurtador.resources
+C:\Users\edssa\source\repos\Bitly\obj\Debug\Bitly.Properties.Resources.resources
+C:\Users\edssa\source\repos\Bitly\obj\Debug\EncurtadorDeLinks.csproj.GenerateResource.cache
+C:\Users\edssa\source\repos\Bitly\obj\Debug\EncurtadorDeLinks.csproj.CoreCompileInputs.cache
+C:\Users\edssa\source\repos\Bitly\obj\Debug\EncurtadorDeLinks.csproj.CopyComplete
+C:\Users\edssa\source\repos\Bitly\obj\Debug\Bitly.exe
+C:\Users\edssa\source\repos\Bitly\obj\Debug\Bitly.pdb

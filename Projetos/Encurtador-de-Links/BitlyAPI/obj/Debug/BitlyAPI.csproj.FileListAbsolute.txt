@@ -1,0 +1,9 @@
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\bin\Debug\BitlyAPI.dll
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\bin\Debug\BitlyAPI.pdb
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\obj\Debug\BitlyAPI.csprojAssemblyReference.cache
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\obj\Debug\BitlyAPI.csproj.CoreCompileInputs.cache
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\obj\Debug\BitlyAPI.csproj.CopyComplete
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\obj\Debug\BitlyAPI.dll
+C:\Users\edssa\source\repos\Bitly\BitlyAPI\obj\Debug\BitlyAPI.pdb
