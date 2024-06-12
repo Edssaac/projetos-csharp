@@ -1,0 +1,12 @@
+C:\Users\Edssaac\source\repos\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\Edssaac\source\repos\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\Edssaac\source\repos\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.Player.resources
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.mediaOpenFiles.resources
+C:\Users\Edssaac\source\repos\PlayerUI\obj\Debug\PlayerUI.equalizer.resources
